@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+	padding: 2rem;
+	color: #d33232;
+	font-weight: bold;
+}
+body {
+	background-color: white;
+}
+h4 {
+	color: #636363;
+	margin: 2rem;
+	text-align: center;
+}
+p {
+	color: #636363;
+	margin-left: 2rem;
+	margin-right: 2rem;
+	margin-bottom: 1rem;
+}
+.spacing-div {
+	height: 20px;
+}
+.p-2 {
+	color: #d33232;
+}
+.divider {
+	height: 5px;
+	width: 95%;
+	margin: auto;
+	background-color: #d33232;
+}
